@@ -1,4 +1,4 @@
-// I will use mutliple types of operations to calucation the three codes for the vault, then I will use a an alert to display the code on the website.
+// I will use mutliple types of operations to calucate the three codes for the vault, then I will use a an alert to display the code on the website.
 
 
 
